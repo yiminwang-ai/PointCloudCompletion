@@ -8,4 +8,4 @@ Intraoral scanners often miss crown parts due to movement, saliva, or limited an
 ## Method
 PF-Net takes a partial crown point cloud and predicts missing regions via multi-scale feature learning.
 
-[Pipeline](image/pipeline.png)
+![Pipeline](image/pipeline.png)
